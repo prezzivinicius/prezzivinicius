@@ -21,7 +21,7 @@ Estou criando projetos simples, mas bem estruturados, para evoluir meu aprendiza
 
 ## 🎯 Objetivos
 
-- Evoluir como desenvolvedor Front-end
+- Evoluir como desenvolvedor 
 - Criar projetos práticos para meu portfólio
 - Melhorar minha lógica de programação
 - Aprender boas práticas de organização de código
